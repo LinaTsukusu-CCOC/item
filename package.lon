@@ -1,0 +1,13 @@
+{
+    author = "LinaTsukusu",
+    name = "item",
+    description = "",
+    repository = "LinaTsukusu-CCOC/item",
+    version = "1.0.0",
+    files = {
+        "item.lua"
+    },
+    dependencies = {
+        "LinaTsukusu-CCOC/log4l",
+    },
+}
